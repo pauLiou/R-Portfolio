@@ -158,7 +158,7 @@ is the **Pearson** correlation.
 Here is the Pearson's correlation equation:
 
 <p align="center">
-<img src="https://latex.codecogs.com/gif.latex?r = \frac{\sum{(x-m_x)(y-m_y)}}{\sqrt{\sum{(x-m_x)^2}\sum{(y-m_y)^2}}} {} t " /> 
+<img src="/equation1.jpg" /> 
 </p>
 
 Where _m_<sub>_x_</sub> and _m_<sub>_y_</sub> are the means of your two variables
@@ -167,7 +167,7 @@ Where _m_<sub>_x_</sub> and _m_<sub>_y_</sub> are the means of your two variable
 Afterwhich we can perform a simple calculation to determine the **p-value** by calculating _t_.
 
 <p align="center">
-<img src="https://latex.codecogs.com/gif.latex?t = \frac{r}{\sqrt{1-r^2}}\sqrt{n-2} {} t " /> 
+<img src=/equation2.jpg /> 
 </p>
 
 
@@ -226,7 +226,7 @@ different (significantly different) to the null hypothesis.
 A _t_ test operates in the following manner:
 
 <p align="center">
-<img src="https://latex.codecogs.com/gif.latex?t = \frac{m}{s/\sqrt{n}}" /> 
+<img src="/equation3.jpg" /> 
 </p>
 
 **_m_** = the mean difference between each pair of values.
